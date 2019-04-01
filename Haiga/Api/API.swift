@@ -9,7 +9,7 @@
 import Foundation
 struct Api{
 
-     static let KEY="e65445bc662644ac29c2e25130d8e8ce"
+     static let KEY="YOURKEY"
      static let HOST="https://api.themoviedb.org/3/"
      static let MOVIE_DISCOVER="discover/movie"
 }
