@@ -1,7 +1,6 @@
 # MoviesSwift
 Description 
 An simple MVP example using swift, Alamofire, Codable. 
-<p>
 The app will show a movie list form the movie db
 
 <img src='https://github.com/sebacipolat/MoviesSwift/blob/master/pictures/screen.png' height="500"/>
