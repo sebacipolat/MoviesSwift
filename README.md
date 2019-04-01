@@ -3,7 +3,7 @@ Description
 An simple MVP example using swift, Alamofire, Codable. 
 The app will show a movie list form the movie db
 
-<img src='https://github.com/sebacipolat/MoviesSwift/blob/master/pictures/screen.png' height="100"/>
+<img src='https://github.com/sebacipolat/MoviesSwift/blob/master/pictures/screen.png' height="500"/>
 
 ## API 
 Modify the file and replace KEY with your own key
